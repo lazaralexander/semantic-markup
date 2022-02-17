@@ -6,9 +6,11 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <title>Horiseon Solutions</title>
 </head>
-
+<!--seperated the header out of the main per https://www.semrush.com/blog/semantic-html5-guide/#header5-->
 <header class="header">
+    <!--changed span to em, couldnt really find a semantic solution to this problem, but stack overflow mentioned a span might be alright here because we're breaking up h1-->
     <h1>Hori<em class="seo">seo</em>n</h1>
+    <!--changed non-semantic to semantic (e.g. nav/em) -->
     <nav>
         <ul>
             <li>
@@ -27,7 +29,7 @@
 <main>
     
     <article class="hero"></article>
-    
+    <!--changed divs to article/section properly nesting them for semantic purposes, and restructured code to be easier to read-->
     <article class="content">
         <section class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" alt="Search Engine Optimization" class="float-left" />
@@ -51,7 +53,7 @@
             </p>
         </section>
     </article>
-    
+    <!--changed divs to article/aside, and restructured code to be easier to read-->
     <article class="benefits">
         <aside class="benefit-lead">
             <h3>Lead Generation</h3>
@@ -77,7 +79,7 @@
     </article>
 
 </main>
-
+<!--put footer at bottom outside of main per https://www.semrush.com/blog/semantic-html5-guide/#header5-->
 <footer class="footer">
     <h2>Made with ❤️️ by Horiseon</h2>
         <p>
