@@ -20,3 +20,10 @@ Throughout the project I learned how to identify non-semantic language and repla
 ![Screenshot of HTML](https://github.com/lazaralexander/semantic-markup/blob/main/assets/images/html.png "HTML")
 
 ![Screenshot of CSS](https://github.com/lazaralexander/semantic-markup/blob/main/assets/images/css.png "CSS")
+
+## Credits
+
+1. https://github.com/johnfyoung
+2. https://www.semrush.com/blog/semantic-html5-guide/#header5
+3. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+4. https://www.w3schools.com/
