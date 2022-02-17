@@ -21,6 +21,10 @@ Throughout the project I learned how to identify non-semantic language and repla
 
 ![Screenshot of CSS](https://github.com/lazaralexander/semantic-markup/blob/main/assets/images/css.png "CSS")
 
+## Links
+
+1. https://lazaralexander.github.io/semantic-markup/
+
 ## Credits
 
 1. https://github.com/johnfyoung
