@@ -1,9 +1,16 @@
 # semantic-markup
 
-This is my first homework for Full Stack Web Development
+## Description
 
-In this assignment we were tasked with refactoring existing code for accessibilty and SEO purposes.
+The motivation behind this project was to learn the concept of refactoring code. The project involved understanding the difference between semantic and non-semantic language for the purposes of accessibility which in turn increases search engine optimization.
 
-Throughout this assignment I changed the non semantic code to semantic code. This was all done to make the code more accessible to all users and in turn provide better optimization for search engines.
+Throughout the project I learned how to identify non-semantic language and replace it with semantic language that nested properly within the .html and .css files, while maintaining the codes original functionality.
 
-This is a work in progress.
+## Installation
+
+1. go to https://github.com/lazaralexander/semantic-markup
+2. go to https://lazaralexander.github.io/semantic-markup/
+
+## Usage
+
+![Screenshot of Website](https://github.com/lazaralexander/semantic-markup/blob/main/assets/images/website.png "Website")
