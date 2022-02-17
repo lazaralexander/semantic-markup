@@ -8,8 +8,10 @@ Throughout the project I learned how to identify non-semantic language and repla
 
 ## Installation
 
-1. go to https://github.com/lazaralexander/semantic-markup
-2. go to https://lazaralexander.github.io/semantic-markup/
+1. Go to https://github.com/lazaralexander/semantic-markup
+2. Clone the repository
+3. Open emulation layer for Git command and clone the link
+4. Open in preferred source-code editor
 
 ## Usage
 
