@@ -2,9 +2,9 @@
 
 ## Description
 
-The motivation behind this project was to learn the concept of refactoring code. The project involved understanding the difference between semantic and non-semantic language for the purposes of accessibility which in turn increases search engine optimization.
+The motivation behind this project was to learn the concept of **refactoring code**. The project involved understanding the difference between semantic and non-semantic language for the purposes of accessibility which in turn increases search engine optimization.
 
-Throughout the project I learned how to identify non-semantic language and replace it with HTML5 semantic language that nested properly within the .html and .css files, while maintaining the codes original functionality.
+Throughout the project I learned how to identify non-semantic language and replace it with **HTML5** semantic language that nested properly within the **'''.html'''** and **'''.css files'''**, while maintaining the codes original functionality.
 
 ## Installation
 
