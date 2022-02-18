@@ -24,6 +24,6 @@ Throughout the project I learned how to identify non-semantic language and repla
 ## Credits
 
 1. https://github.com/johnfyoung
+2. https://www.w3schools.com/
 2. https://www.semrush.com/blog/semantic-html5-guide/#header5
-3. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-4. https://www.w3schools.com/
+4. https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
