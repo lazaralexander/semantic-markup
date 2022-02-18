@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/*changed this to "nav" per the semantic change in html*/
+/*changed to nave to match semantic*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-/*changed this to "nav" per the semantic change in html*/
+/*changed to nave to match semantic*/
 .header nav ul {
     list-style-type: none;
 }
-/*changed this to "nav" per the semantic change in html*/
+/*changed to nave to match semantic*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
