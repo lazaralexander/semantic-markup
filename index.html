@@ -8,8 +8,8 @@
 </head>
 <!--seperated the header out of the main per https://www.semrush.com/blog/semantic-html5-guide/#header5-->
 <header class="header">
-    <!--changed span to em, couldnt really find a semantic solution to this problem, but stack overflow mentioned a span might be alright here because we're breaking up h1-->
-    <h1>Hori<em class="seo">seo</em>n</h1>
+    <!--couldnt really find a semantic solution to this problem, but stack overflow mentioned a span might be alright here because we're breaking up h1 https://stackoverflow.com/questions/7524185/can-we-add-a-span-inside-an-h1-tag/7524233#7524233-->
+    <h1>Hori<span class="seo">seo</span>n</h1>
     <!--changed non-semantic to semantic (e.g. nav/em) -->
     <nav>
         <ul>
@@ -23,7 +23,7 @@
 <main>
     
     <article class="hero"></article>
-    <!--changed divs to article/section properly nesting them for semantic purposes, removed unnecessary and restructured code to be easier to read-->
+    <!--changed divs to article/section properly nesting them for semantic purposes and restructured code to be easier to read-->
     <article class="content">
         <section class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" alt="Photo of notebook with SEO basics" class="float-left" />
